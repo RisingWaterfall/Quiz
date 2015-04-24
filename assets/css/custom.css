@@ -1,0 +1,10 @@
+body, #content {
+  font-family: 'Raleway', sans-serif;
+}
+#content-wrapper {
+  width: 600px;
+  margin: 0 auto;
+  }
+#correct, #incorrect {
+  display: none;
+}
